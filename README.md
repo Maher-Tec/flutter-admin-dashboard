@@ -17,7 +17,7 @@ A high-performance, production-ready admin dashboard built with Flutter with a m
 
 ## Demo / Preview
 
-- Screenshot: docs/screenshots/dashboard.png
+- Screenshot: docs/screenshots/
 
 ---
 
@@ -78,3 +78,4 @@ flutter gen-l10n
 Powered by AmoMaherTec — Maher-Tec  
 
 ---
+
