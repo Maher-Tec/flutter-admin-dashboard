@@ -1,0 +1,11 @@
+﻿Analyzing admin_dash...                                         
+
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\features\settings\settings_screen.dart:137:9 - deprecated_member_use
+   info - Use a 'SizedBox' to add whitespace to a layout - lib\main_layout.dart:191:21 - sized_box_for_whitespace
+   info - 'scale' is deprecated and shouldn't be used. Use scaleByVector3, scaleByVector4, or scaleByDouble instead - lib\widgets\chart_widgets.dart:66:40 - deprecated_member_use
+   info - 'scale' is deprecated and shouldn't be used. Use scaleByVector3, scaleByVector4, or scaleByDouble instead - lib\widgets\chart_widgets.dart:336:40 - deprecated_member_use
+   info - The import of 'dart:ui' is unnecessary because all of the used elements are also provided by the import of 'package:flutter/material.dart' - lib\widgets\dashboard_app_bar.dart:2:8 - unnecessary_import
+   info - The import of 'dart:ui' is unnecessary because all of the used elements are also provided by the import of 'package:flutter/material.dart' - lib\widgets\stat_card.dart:2:8 - unnecessary_import
+   info - 'scale' is deprecated and shouldn't be used. Use scaleByVector3, scaleByVector4, or scaleByDouble instead - lib\widgets\stat_card.dart:107:42 - deprecated_member_use
+warning - Unused import: 'package:admin_dash/main.dart' - test\widget_test.dart:11:8 - unused_import
+
