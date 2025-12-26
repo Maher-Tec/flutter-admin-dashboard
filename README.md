@@ -19,15 +19,15 @@ A high-performance, production-ready admin dashboard built with Flutter with a m
 
 | Dashboard | Users |
 |----------|-------|
-| ![](screenshots/dashboard.png) | ![](screenshots/users.png) |
+| ![](screenshots/dashboard.jpg) | ![](screenshots/users.jpg) |
 
 | Orders | Analytics |
 |--------|-----------|
-| ![](screenshots/orders.png) | ![](screenshots/analytics.png) |
+| ![](screenshots/orders.jpg) | ![](screenshots/analytics.jpg) |
 
 | Settings |
 |----------|
-| ![](screenshots/settings.png) |
+| ![](screenshots/settings.jpg) |
 
 ---
 
