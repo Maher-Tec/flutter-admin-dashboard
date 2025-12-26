@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Admin Dash - Premium Flutter Dashboard
 
 A high-performance, production-ready Admin Dashboard built with Flutter, featuring a modern glassmorphism design, full multi-language support (i18n), and Right-to-Left (RTL) capability.
@@ -61,3 +62,28 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Flutter Admin Dashboard
+
+A production-ready admin dashboard built with Flutter.
+Designed for web, desktop, and tablet use cases.
+
+## ✨ Features
+- Responsive admin layout
+- Sidebar navigation
+- Analytics dashboards
+- User management
+- Orders management
+- Light / Dark mode
+- Clean architecture
+## 🛠 Tech Stack
+- Flutter
+- Material 3
+- fl_chart
+- Provider / Riverpod
+- Responsive layout
+
+## 🚀 Getting Started
+flutter pub get
+flutter run -d chrome
+>>>>>>> e9c7d06335b512daa425473dfedbeabfd0a8e5d2
